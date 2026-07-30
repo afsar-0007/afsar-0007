@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-# Hi there 👋, I'm Afsar Sohail<br><br>🎓 3rd Year Computer Science & Engineering Student<br><br>💻 Passionate about Software Development, Java, and Problem Solving.<br><br>🌱 Currently learning:<br>- Java & Data Structures and Algorithms (DSA)<br>- Web Development (HTML, CSS, JavaScript)<br>- Linux & Shell Scripting<br>- AWS Cloud<br>- DevOps Tools (Git, GitHub)<br><br>🚀 Building projects to improve my development skills and gain real-world experience.<br><br>🎯 Goal:<br>To become a Software Engineer and contribute to impactful products while continuously learning new technologies.<br><br>📫 Reach me:<br>- LinkedIn: https://www.linkedin.com/in/afsar-sohail-184803292/<br>- Email: your-afsarsohail82@gmail.com<br><br>⚡ Fun Fact:<br>I enjoy solving coding problems and exploring new technologies every day.
+# Hi there 👋, I'm Afsar Sohail<br><br>🎓 4th Year Computer Science & Engineering Student<br><br>💻 Passionate about Software Development, Java, and Problem Solving.<br><br>🌱 Currently learning:<br>- Java & Data Structures and Algorithms (DSA)<br>- Web Development (HTML, CSS, JavaScript)<br>- Linux & Shell Scripting<br>- AWS Cloud<br>- DevOps Tools (Git, GitHub)<br><br>🚀 Building projects to improve my development skills and gain real-world experience.<br><br>🎯 Goal:<br>To become a Software Engineer and contribute to impactful products while continuously learning new technologies.<br><br>📫 Reach me:<br>- LinkedIn: https://www.linkedin.com/in/afsar-sohail-184803292/<br>- Email: your-afsarsohail82@gmail.com<br><br>⚡ 
 
 
 ## 🌐 Socials:
