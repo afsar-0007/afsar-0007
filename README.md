@@ -114,18 +114,24 @@ Building hands-on projects around:
 </p>
 
 ---
-
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/afsar-sohail-184803292/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:your-afsarsohail82@gmail.com">
+
+  <a href="https://hashnode.com/@afsar-sohail">
+    <img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?style=for-the-badge&logo=hashnode&logoColor=white">
+  </a>
+  <a href="mailto:afsarsohail82@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+    </a>
+  <a href="https://leetcode.com/u/Afsar_sohail/">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black">
+  </a>
 </p>
-
 ---
 
 <p align="center">
